@@ -11,11 +11,11 @@
     - [What is Linux?](https://www.tutorialspoint.com/unix/index.htm)
 
 ## History of Linux:
-- **Watch**: [The History of Linux - YouTube Video](https://www.youtube.com/watch?v=tvwLRql_YO4)
-- **Read**: [Linux Foundation's History](https://www.linuxfoundation.org/about/history/)
+- **Watch**: [The History of Linux - YouTube Video]([https://www.youtube.com/watch?v=tvwLRql_YO4](https://www.youtube.com/watch?v=s7u7jBwIocU))
+- **Read**: [Linux Foundation's History]([https://www.linuxfoundation.org/about/history/](https://www.linuxfoundation.org/blog/blog/the-linux-foundation-its-not-just-the-linux-operating-system))
 - **Key Concept**: Learn about the origins of Linux, its creator Linus Torvalds, and the significance of its open-source nature.
 
 ## Linux Components:
 - Learn about the **kernel**, **shell**, **user space**, and **file system**.
-- **Read**: [Linux Architecture](https://www.geeksforgeeks.org/architecture-of-linux-kernel/)
+- **Read**: [Linux Architecture]([https://www.geeksforgeeks.org/architecture-of-linux-kernel/](https://www.armosec.io/glossary/linux-kernel/))
 - **Key Concept**: The kernel is the core part of the system that interacts directly with the hardware, while the shell provides the interface for user commands.
