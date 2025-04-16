@@ -8,7 +8,7 @@
 - Linux is an open-source operating system that is widely used for servers, desktops, and embedded systems.
 - **Key Concepts**: Open-source, Unix-like, Kernel, Shell, and File System.
 - **Read**:
-    - [What is Linux?](https://www.tutorialspoint.com/unix/index.htm)
+    - [What is Linux?](https://www.redhat.com/en/topics/linux/what-is-linux)
 
 ## History of Linux:
 - **Watch**: [The History of Linux - YouTube Video](https://www.youtube.com/watch?v=s7u7jBwIocU)
