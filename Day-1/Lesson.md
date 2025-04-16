@@ -19,3 +19,12 @@
 - Learn about the **kernel**, **shell**, **user space**, and **file system**.
 - **Read**: [Linux Architecture](https://www.armosec.io/glossary/linux-kernel/)
 - **Key Concept**: The kernel is the core part of the system that interacts directly with the hardware, while the shell provides the interface for user commands.
+
+
+### **Book to Follow Along With 📚**
+- For **Day 1**, we’ll be studying **"The Linux Command Line: A Complete Introduction" by William E. Shotts**.
+   - **Pages to Read for Day 1**: Read **Pages 1–5** (Chapter 1: Introduction).
+   
+   This book will guide you through the Linux command line, starting with the basics. As you proceed through the challenge, we’ll gradually increase the reading load.
+
+---
